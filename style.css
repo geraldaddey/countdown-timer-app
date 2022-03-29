@@ -32,6 +32,9 @@ h2 {
 }
 
 .countdown-container {
+  background-color: rgba(49, 49, 49, 0.3);
+  padding: 1rem;
+
   color: white;
   display: flex;
   text-align: center;
